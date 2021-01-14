@@ -6,6 +6,7 @@
 - Day 4: Docker p1
 - Day 5: Command-Line
 - Day 7: Files
+- Day 8: Iterable and iterator
 - Day 6: Web API with Gunicorn and Requests
 - Day 7: Docker p2
 - Day 8: Iterators and Itertools
